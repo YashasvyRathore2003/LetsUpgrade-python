@@ -1,2 +1,2 @@
 # LetsUpgrade-python
-Odd - Even program
+Python assignments...
